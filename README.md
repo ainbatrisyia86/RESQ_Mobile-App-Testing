@@ -28,7 +28,16 @@ Areas covered:
 - Splash screen UI validation
 - App logo and description display
 
+---
+
 ### Create Account
 
-he
+Objective: To verify users can create account succesfully.
 
+Areas covered:
+- Account creation flow
+- Required field validation
+- Empty field handling
+- Successful registration
+
+Expected result:
