@@ -19,7 +19,7 @@ Purpose: To validate functionality, usability, user experience, system behaviour
 ---
 ## Test Coverage
 
-### Splash Screen
+### 🚀 Splash Screen
 
 Objective: To verify app launches screen correctly.
 
@@ -30,7 +30,7 @@ Areas covered:
 
 ---
 
-### Create Account
+### 👤 Create Account
 
 Objective: To verify users can create account succesfully.
 
