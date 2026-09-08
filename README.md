@@ -7,4 +7,13 @@ This repository contains QA documentation of Final Year Project, **RESQ: A GPS-B
 Purpose: To validate functionality, usability, user experience, system behaviour through structured test scenarios and positive/negative test cases.
 
 ---
-## Test Coverage
+## 🧰 Tools Used
+
+| Category | Tools |
+|---|---|
+| Test Documentation | Google Sheets |
+| Bug Tracking | Google Sheets |
+| Mobile Testing | Android |
+| Test Evidences | Google Drive: https:// |
+
+---
