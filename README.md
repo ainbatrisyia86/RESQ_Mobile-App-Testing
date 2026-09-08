@@ -17,3 +17,18 @@ Purpose: To validate functionality, usability, user experience, system behaviour
 | Test Evidences | Google Drive: https:// |
 
 ---
+## Test Coverage
+
+### Splash Screen
+
+Objective: To verify app launches screen correctly.
+
+Areas covered:
+- Cold start behavior
+- Splash screen UI validation
+- App logo and description display
+
+### Create Account
+
+he
+
