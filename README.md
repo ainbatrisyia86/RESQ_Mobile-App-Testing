@@ -41,3 +41,17 @@ Areas covered:
 - Successful registration
 
 Expected result:
+
+---
+
+### 🔐 Sign In
+
+Objective: To verify app launches screen correctly.
+
+Areas covered:
+- Login with credentials
+- Invalid input validation
+- Forgot Password flow
+- Password reset request
+
+---
