@@ -30,7 +30,7 @@ Areas covered:
 
 ---
 
-### 👤 Create Account
+### ➕ Create Account
 
 Objective: To verify users can create account succesfully.
 
@@ -46,7 +46,7 @@ Expected result:
 
 ### 🔐 Sign In
 
-Objective: To verify app launches screen correctly.
+Objective: 
 
 Areas covered:
 - Login with credentials
@@ -55,3 +55,26 @@ Areas covered:
 - Password reset request
 
 ---
+### 👤 User Profile
+Objective:
+
+Areas covered:
+- 
+
+---
+### 🛠️ Book Assistance Services
+Objective: 
+
+Areas covered:
+- 
+
+---
+### 🛠️ Real-Time Location Tracking
+Objective: 
+
+Areas covered:
+- 
+
+---
+
+
